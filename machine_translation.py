@@ -466,7 +466,7 @@ def final_predictions(x, y, x_tk, y_tk):
 final_predictions(preproc_english_sentences, preproc_french_sentences, english_tokenizer, french_tokenizer)
 
 
-# ## Submission
+
 # When you're ready to submit, complete the following steps:
 # 1. Review the [rubric](https://review.udacity.com/#!/rubrics/1004/view) to ensure your submission meets all requirements to pass
 # 2. Generate an HTML version of this notebook
